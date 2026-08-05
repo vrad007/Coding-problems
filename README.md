@@ -1,2 +1,3 @@
 # Coding-problems
-Solutions with descriptions 
+Solutions with descriptions
+A look into my approach and understanding
